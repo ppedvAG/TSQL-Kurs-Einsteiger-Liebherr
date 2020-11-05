@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 18.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Liebherr TSQL", "Liebherr TSQL\Liebherr TSQL.ssmssqlproj", "{674211F5-348C-4E2D-885E-A90AFB3E48B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{674211F5-348C-4E2D-885E-A90AFB3E48B9}.Default|Default.ActiveCfg = Default
+		{5DA37227-2A61-4C66-A945-D913B00A640F}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02727F91-EA8F-4DC1-B91F-19110E47CFFF}
+	EndGlobalSection
+EndGlobal
